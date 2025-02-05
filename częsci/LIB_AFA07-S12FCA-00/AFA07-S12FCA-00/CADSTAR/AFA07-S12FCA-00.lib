@@ -1,0 +1,19 @@
+.AFA07-S12FCA-00 :1 ;FFC, FPC Connectors P=1mm RoHS
+AFA07S12FCA00
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=MP1 14=MP2
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="9" 10="10" 11="11" 12="12" 13="MP1" 14="MP2"
+*MXP 14
+*DFN AFA07-S12FCA-00
+~!Manufacturer_Name (JUSHUO)
+~!Manufacturer_Part_Number (AFA07-S12FCA-00)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://datasheet.lcsc.com/szlcsc/JUSHUO-AFA07-S12FCA-00_C262718.pdf)
+~!Height (2.6mm)
+~!3D_Model (AFA07-S12FCA-00)
+AFA07-S12FCA-00
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 

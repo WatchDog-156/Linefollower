@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AFA07_S12FCA_00'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "JUSHUO", "AFA07-S12FCA-00" (!) = "", "AFA07S12FCA00", "Other", "", "", "", "", "FFC, FPC Connectors P=1mm RoHS", "https://datasheet.lcsc.com/szlcsc/JUSHUO-AFA07-S12FCA-00_C262718.pdf", "2.6 mm"
+END_PART
+
+END.
